@@ -20,7 +20,9 @@ This is a CRUD web application that allows users to add tourist places they have
 
 - **Backend:** Node.js, Express.js 
 
-- **Database:** MongoDB 
+- **Database:** MongoDB
+## Getting Started
+
 To run the project locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/yourusername/your-repo.git`
